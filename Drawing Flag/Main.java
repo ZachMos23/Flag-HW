@@ -1,3 +1,7 @@
+//Hi all! This program displays the national flag of Romania! I loved creating this flag hope you guys enjoy it!
+
+
+
 import java.awt.*;
 import javax.swing.*;
 
@@ -8,6 +12,7 @@ public class Main {
 
     theGUI.setSize(300,300);
     theGUI.setVisible(true);
+
       
     JPanel panel = new JPanel();
     panel.setBackground(Color.BLUE);
