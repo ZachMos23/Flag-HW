@@ -1,11 +1,11 @@
 //Hi all! This program displays the national flag of Romania! I loved creating this flag hope you guys enjoy it!
-
+package GUI;
 
 
 import java.awt.*;
 import javax.swing.*;
 
-public class Main {
+public class Flag {
     public static void main(String[] args) {
         JFrame theGUI = new JFrame("Flag Example");
         theGUI.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
