@@ -1,7 +1,7 @@
-import Game.Clicker1;
+import PaintApp.ColorText;
 
 class Main{
   public static void main(String[] args){
-    new Clicker1();
+    new ColorText();
   }
 }
